@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vite *)",
+      "Bash(nohup npx vite --port 5183)",
+      "Bash(echo \"started with pid $!\")",
+      "Bash(mkdir -p /private/tmp/claude-501/-Users-patrick-Downloads-DEMO-PRL-perurail-4/ea61f559-ca26-495a-937a-f8bf7aa37da8/scratchpad)"
+    ]
+  }
+}
